@@ -1,0 +1,111 @@
+/*
+  Colors:
+    Blue: #0984e3
+    black: #555
+    white: #fff
+*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:300&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #fff;
+  color: #555;
+  font-family: 'Roboto', 'Arial', sans-serif;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+
+/* -------------------------------------------- */
+/* HEADER */
+/* -------------------------------------------- */
+header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./img/Desert1.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+/* NavBar */
+
+.logo {
+  display: inline-block;
+  height: 50px;
+  margin-top: 10px;
+}
+
+nav {
+  margin: 0;
+  overflow: hidden;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+}
+nav ul li a {
+  font-size: 140%;
+  display: block;
+  text-decoration: none;
+  padding: 0  0 5px 0 !important;
+  margin-top: 25px;
+  margin-left: 35px;
+  border-bottom: 2px solid transparent;
+  transition: border-bottom 0.2s;
+}
+
+nav ul li:last-child {
+  margin: 0px;
+}
+nav ul li:first-child {
+  margin-right: auto;
+}
+
+nav li a:link,
+nav li a:visited {
+  color: #fff;
+}
+
+nav ul li a:hover {
+  border-bottom: 2px solid #0984e3;
+}
+
+.hero-text-box {
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.hero-text-box h1{
+  font-size: 400%;
+  letter-spacing: 2px;
+}
+
+.hero-text-box h3{
+  font-size: 130%;
+  letter-spacing: 2px;
+  color: #fff;
+}
+
+
+/* -------------------------------------------- */
+/* REUSABLE COMPONENTS */
+/* -------------------------------------------- */

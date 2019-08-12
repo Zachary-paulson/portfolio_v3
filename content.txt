@@ -1,0 +1,68 @@
+﻿Header:
+	Nav Links:
+		Logo
+		About me
+		Projects
+		Contact me
+Section0: header
+Title: I’m Zachary.
+
+	A fullstack Developer.
+
+
+Section1: about me
+Title: Get to Know Zachary Paulson
+
+Certified Full Stack Web Developer from the University of Arizona Continuing and Professional Education. Often led groups in both school and work in projects to develop effective app-based solutions to solve real world complications.  Successfully completed app-based solution within the given time constraints. Ambitious about learning and utilizing new technologies to create even more complex projects. 
+
+Section2: Group Projects
+Title: Group Assignments and projects:
+	
+	Title: Zenn Inventory 
+	Description: ZENN Inventory utilizes the platform APIs to generate a multi-	channel inventory control app with a centralized inventory database. 
+	Technologies used: Developed on the MERN Stack. 
+	Deployed: www.zenninventory.com 
+	Link to Code: github.com/Zachary-paulson/zenninventory 
+	Role: Handle Passport Oauth with Google, Ebay, Etsy.
+
+Section3: Student projects
+Title: Bootcamp Assignments 
+
+	
+	Title: Battle Monsters
+	Summary: A simple game where you choose a Monster to battle with, and battle 	against the remaining creatures. 
+	Technologies:HTLM5, CSS3, JavaScript, JQuery
+	Deployed: zachary-paulson.github.io/Battle-Monsters 
+	Repository: github.com/Zachary-paulson/Battle-Monsters 
+	
+	Title: Rock, Paper, Scissors 
+	Summary: A simple Online Rock Paper Scissors Game, with online chat.
+	Technologies: HTLM5, CSS3, JavaScript, JQuery, FireBase 
+	Deployed: zachary-paulson.github.io/RockPaperScissorGame 
+	Repository: github.com/Zachary-paulson/RockPaperScissorGame 
+
+	Title: Omnifood Mock
+	Summary: This is a student project for the Mock company Omnifood.  This is a 	simple example of what can be achieve with HTML5 and CSS3.  Enjoy the smooth 	animations, and feel free to test this site on a mobile device!
+	Technologies: HTLM5, CSS3, JavaScript, JQuery
+	Deployed: zachary-paulson.github.io/omi_food_udemy/
+	Repository: github.com/Zachary-paulson/omi_food_udemy
+
+Section 4:Contact Information
+Title: Get in touch with me.
+
+	Email: Zach@Zacharypaulson.com	
+	Linked In: https://www.linkedin.com/in/zachary-paulson-6151b7133/
+
+Section5: the footer
+Footer:
+	Nav Links:
+		Logo
+		About me
+		Projects
+		Contact me
+
+	Email:  Zach@Zacharypaulson.com
+	Github:	
+	LinkedIn: https://www.linkedin.com/in/zachary-paulson-6151b7133/
+
+	Copyright 2019. All right reserved. 
